@@ -1,0 +1,19 @@
+npm i express nodemon mongoose;
+
+npm i express-validator
+
+npm i bcryptjs jsonwebtoken
+
+work flow;
+
+testing server
+make config file to connect mongodb
+make Schemaless item model
+getting item data from db
+make user model
+make a router for create user
+applying validations using express-validator in createUser
+make router for login user
+save encrypted password in db
+making auth token
+
